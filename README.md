@@ -165,7 +165,7 @@ The project was uploaded to [GitHub](https://github.com/) at the following repos
 [https://github.com/Milfred08/HTML-CSS-Git-Challenge-Code-Refactor](https://github.com/Milfred08/HTML-CSS-Git-Challenge-Code-Refactor)
 
 You can access the deployed application with the GitHup Pages link:
-[https://github.com/Milfred08/HTML-CSS-Git-Challenge-Code-Refactor](https://github.com/Milfred08/HTML-CSS-Git-Challenge-Code-Refactor)
+[https://milfred08.github.io/HTML-CSS-Git-Challenge-Code-Refactor/](https://milfred08.github.io/HTML-CSS-Git-Challenge-Code-Refactor/)
 
 
 ## References
